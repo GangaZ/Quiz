@@ -1,0 +1,68 @@
+#inicio{
+	max-height:354px;
+	
+}
+#inicio .altos{
+	min-height:353px;
+	background:url(../images/inicial.png) center center no-repeat;
+	background-size:cover;
+	-webkit-background-size:cover;
+}
+ .juego{
+	background:url(../images/pregs.png) top center no-repeat;
+	background-size:cover;
+	-webkit-background-size:cover;
+	min-height:300px;
+	width:100%;
+	
+	box-shadow:0px 0px 3px #000;
+	-webkit-box-shadow:0px 2px 3px #000;
+}
+ .terapia{
+	width:190px;
+	height:80px;
+	background:none;
+	float:right;
+	border-radius:50%;
+	-webkit-border-radius:50%;
+	margin:2em 15%;
+	color:darkRed;
+	text-shadow:none;
+	text-align:center;
+}
+ #pop1 .juego{
+	background:url(../images/lusr.png) top center no-repeat;
+	background-size:cover;
+	-webkit-background-size:cover;
+	min-height:400px;
+	width:100%;
+	
+	box-shadow:0px 0px 3px #000;
+	-webkit-box-shadow:0px 2px 3px #000;
+}
+
+ #pop2 .juego{
+	background:url(../images/medio.png) top center no-repeat;
+	background-size:cover;
+	-webkit-background-size:cover;
+	min-height:400px;
+	width:100%;
+	
+	box-shadow:0px 0px 3px #000;
+	-webkit-box-shadow:0px 2px 3px #000;
+}
+ #pop3 .juego{
+	background:url(../images/win.png) top center no-repeat;
+	background-size:cover;
+	-webkit-background-size:cover;
+	min-height:400px;
+	width:100%;
+	
+	box-shadow:0px 0px 3px #000;
+	-webkit-box-shadow:0px 2px 3px #000;
+}
+#rand{
+	width:289px;
+	height:150px;
+	margin:0.2em auto 0.2em;
+}
